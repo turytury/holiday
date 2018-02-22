@@ -1,0 +1,12 @@
+*.iml
+*.ipr
+*.iws
+target/
+.idea/
+.classpath
+.project
+.settings
+*.eclipse.*
+log/
+*.log
+*.log.*
